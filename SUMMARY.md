@@ -21,6 +21,9 @@
 * [3d. Tyldy w wydzieleniu](3d.-tyldy-w-wydzieleniu.md)
 * [4a. Powierzchnie tyld w wydzieleniu](4a.-powierzchnie-tyld-w-wydzieleniu.md)
 * [4b. \[Tab\] Obiekty podstawowe (wersja pełna)](4b.-tab-obiekty-podstawowe-wersja-pelna.md)
-* [4c. \[Tab\] Obiekty podstawowe (wersja uproszczona)](4c.-tab-obiekty-podstawowe-wersja-uproszczona.md)
-* [4d. \[Tab\] Agregacja powierzchni wydzieleń (arodes\_int\_num)](4d.-tab-agregacja-powierzchni-wydzielen-arodes\_int\_num.md)
-* [5. Obiekty podstawowe z danymi tyld](5.-obiekty-podstawowe-z-danymi-tyld.md)
+
+## Podręcznik
+
+* [4d. \[Tab\] Agregacja powierzchni wydzieleń (arodes\_int\_num)](podrecznik/4d.-tab-agregacja-powierzchni-wydzielen-arodes\_int\_num.md)
+* [4c. \[Tab\] Obiekty podstawowe (wersja uproszczona)](podrecznik/4c.-tab-obiekty-podstawowe-wersja-uproszczona.md)
+* [5. Obiekty podstawowe z danymi tyld](podrecznik/5.-obiekty-podstawowe-z-danymi-tyld.md)
