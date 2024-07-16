@@ -8,4 +8,6 @@ Podręcznik znajdziesz pod adresem: https://gis-w-gorach.gitbook.io/las-linie-po
 
 ## Licencja
 
-Prace w zakresie algorytmu zostały sfinansowane przez PGL Lasy Państwowe - Regionalną Dyrekcję Lasów Państwowych w Radomiu. Ponowne wykorzystanie modelu, projektu, styli za podaniem źródła.
+Prace w zakresie algorytmu zostały sfinansowane przez PGL Lasy Państwowe - Regionalną Dyrekcję Lasów Państwowych w Radomiu.&#x20;
+
+Ponowne wykorzystanie modelu, projektu, styli za podaniem źródła.

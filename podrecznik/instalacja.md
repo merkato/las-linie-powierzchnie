@@ -8,7 +8,7 @@ Przed przystąpieniem do pracy przygotuj swoje paczki danych, a następnie umie�
 
 Również dane SILP pozyskasz z spakowanego pliku zip o nazwie nadlesnictwo\_data.zip - wejdź do katalogu i wybierz tylko SILP.db - przenieś go do katalogu projektu.
 
-<figure><img src=".gitbook/assets/struktura_katalogu.png" alt=""><figcaption><p>Katalog projektu po pobraniu i przygotowaniu do pracy.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/struktura_katalogu.png" alt=""><figcaption><p>Katalog projektu po pobraniu i przygotowaniu do pracy.</p></figcaption></figure>
 
 
 
